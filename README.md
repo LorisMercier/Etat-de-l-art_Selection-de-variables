@@ -24,10 +24,10 @@ tests statistiques à l’appui.
 Problématique d'étude très récente, la sélection de variables appliquées au multi-label partiel n'en est pour l'heure qu'au stade embryonnaire des recherches. 
 
 Afin d'aborder en profondeur les différentes notions rattachées à ce sujet FSPML, nous avons fait le choix en concertation avec nos encadrants de projet de traduire ce sujet en trois états de l'art :
-1. **Sélection de variables supervisée mono-label**
+1. **[Sélection de variables supervisée mono-label](A_Etat_de_l'art_FS_SuperviseeMonoLabel_LEFEVRE_MERCIER.pdf)**
+2. **[Sélection de variables semi-supervisée mono-label](B_Etat_de_l'art_FS_SemiSuperviseeMonoLabel_LEFEVRE_MERCIER.pdf)**
+3. **[Sélection de variables appliquée à l'univers multi-label et multi-label partiel (PML)](C_Etat_de_l'art_FS_MultiLabel_LEFEVRE_MERCIER.pdf)**
 
-2. **Sélection de variables semi-supervisée mono-label**
-3. **Sélection de variables appliquée à l'univers multi-label et multi-label partiel (PML)**
 
 Ces 3 parties ont l'avantage d'être progressive.   
 **Tout d'abord**, notre premier état de l'art présente les différentes catégories de sélection de variables en se basant sur le mode d'apprentissage le plus répandu : Supervisé, mono-label. Nous introduisons ainsi les trois grandes approches de sélection de variables que sont les filtres, les wrappers et les méthodes embedded.   
